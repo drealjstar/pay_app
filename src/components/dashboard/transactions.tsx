@@ -4,8 +4,6 @@ import { useState } from "react"
 import {
   ArrowLeft,
   ArrowRight,
-  TrendingUp,
-  TrendingDown,
   ShoppingBag,
   Camera,
   GraduationCap,

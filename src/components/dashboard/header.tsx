@@ -1,12 +1,9 @@
 "use client"
 
 import {
-  MessageSquare,
-  Bell,
   ChevronDown,
   Copy,
 } from "lucide-react"
-import { Avatar, AvatarFallback } from "@/components/ui/avatar"
 
 export function Header() {
   return (
